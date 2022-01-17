@@ -1,8 +1,8 @@
 {
- "homepage": "https://github.io/latenightdan/React-Portfolioo",
   "name": "dan-portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
+  "homepage": "https://latenightdan.github.io/React-Portfolioo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
