@@ -13,7 +13,7 @@ const About = () => {
         
     </header>
         <div class="me">
-            <img src={me} className="myImg"></img>
+            <img src={me} alt=""className="myImg"></img>
             
           </div>
         <p className="dBio">
