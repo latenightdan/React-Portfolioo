@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "//github.com/latenightdan/React-Portfolioo/static/css/main.1a972c42.css",
-    "main.js": "//github.com/latenightdan/React-Portfolioo/static/js/main.4ae9d91b.js",
-    "static/js/787.e179f5ab.chunk.js": "//github.com/latenightdan/React-Portfolioo/static/js/787.e179f5ab.chunk.js",
-    "static/media/hmbp.jpg": "//github.com/latenightdan/React-Portfolioo/static/media/hmbp.dad78193f674864ac893.jpg",
-    "static/media/Sequence 01.00_00_00_00.Still001.jpg": "//github.com/latenightdan/React-Portfolioo/static/media/Sequence 01.00_00_00_00.Still001.3ba0e05d28cefd0f7270.jpg",
-    "static/media/mspace.png": "//github.com/latenightdan/React-Portfolioo/static/media/mspace.91164db69fe2f9b6fc9a.png",
-    "static/media/budget.png": "//github.com/latenightdan/React-Portfolioo/static/media/budget.2c62c76e259196900872.png",
-    "index.html": "//github.com/latenightdan/React-Portfolioo/index.html",
-    "main.1a972c42.css.map": "//github.com/latenightdan/React-Portfolioo/static/css/main.1a972c42.css.map",
-    "main.4ae9d91b.js.map": "//github.com/latenightdan/React-Portfolioo/static/js/main.4ae9d91b.js.map",
-    "787.e179f5ab.chunk.js.map": "//github.com/latenightdan/React-Portfolioo/static/js/787.e179f5ab.chunk.js.map"
+    "main.css": "//github.io/latenightdan/React-Portfolioo/static/css/main.bb09c52b.css",
+    "main.js": "//github.io/latenightdan/React-Portfolioo/static/js/main.8e441b8c.js",
+    "static/js/787.e179f5ab.chunk.js": "//github.io/latenightdan/React-Portfolioo/static/js/787.e179f5ab.chunk.js",
+    "static/media/hmbp.jpg": "//github.io/latenightdan/React-Portfolioo/static/media/hmbp.dad78193f674864ac893.jpg",
+    "static/media/Sequence 01.00_00_00_00.Still001.jpg": "//github.io/latenightdan/React-Portfolioo/static/media/Sequence 01.00_00_00_00.Still001.3ba0e05d28cefd0f7270.jpg",
+    "static/media/mspace.png": "//github.io/latenightdan/React-Portfolioo/static/media/mspace.91164db69fe2f9b6fc9a.png",
+    "static/media/budget.png": "//github.io/latenightdan/React-Portfolioo/static/media/budget.2c62c76e259196900872.png",
+    "index.html": "//github.io/latenightdan/React-Portfolioo/index.html",
+    "main.bb09c52b.css.map": "//github.io/latenightdan/React-Portfolioo/static/css/main.bb09c52b.css.map",
+    "main.8e441b8c.js.map": "//github.io/latenightdan/React-Portfolioo/static/js/main.8e441b8c.js.map",
+    "787.e179f5ab.chunk.js.map": "//github.io/latenightdan/React-Portfolioo/static/js/787.e179f5ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a972c42.css",
-    "static/js/main.4ae9d91b.js"
+    "static/css/main.bb09c52b.css",
+    "static/js/main.8e441b8c.js"
   ]
 }
